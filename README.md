@@ -1,4 +1,4 @@
-# 🎥 Video-Based Motion Amplification and Vibration Analysis
+# Video-Based Motion Amplification and Vibration Analysis
 
 This repository contains the codebase that won the **Smart India Hackathon 2023** under the problem statement **PS1415**.
 
@@ -44,11 +44,11 @@ Please use your own trained models or contact the team if required.
 
 ## 👥 Team Credits
 
-Ashwin Baduni,         Swarnim Sawane        
+Ashwin Baduni;         Swarnim Sawane        
 
-Sayarnil Ganguly,      Deepesh Bharadwaj
+Sayarnil Ganguly;     Deepesh Bharadwaj
 
-Kanishk Singh,         Tanasi Singarapu
+Kanishk Singh;        Tanasi Singarapu
 
 
 
