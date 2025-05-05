@@ -2,7 +2,6 @@
 
 This repository contains the codebase that won the **Smart India Hackathon 2023** under the problem statement **PS1415**.
 
----
 
 ## 📽 Sample Output
 
@@ -10,7 +9,6 @@ This repository contains the codebase that won the **Smart India Hackathon 2023*
 
 [Link to full video](https://github.com/Ashwin-Baduni/Video-Based_Motion_Amplification_and_Vibration_Analysis/blob/main/SampleOutputs/VID-20240113-WA0000%20(720p).mp4)
 
----
 
 ## 🚀 Features
 
@@ -22,7 +20,6 @@ This repository contains the codebase that won the **Smart India Hackathon 2023*
 - ✅ ROI-based separate graph generation
 - ✅ Support for multiple amplification settings
 
----
 
 ## 🔗 External Dependency Used
 
@@ -33,14 +30,12 @@ This project incorporates motion magnification methods from:
 - Website: [https://dangeng.github.io/flowmag](https://dangeng.github.io/flowmag)
 - Integrated in `/flowmag`
 
----
 
 ## ⚠️ Model Files Notice
 
 All `.pth` files inside the `Models/` folder are **empty placeholders** due to GitHub's file size limits.  
 Please use your own trained models or contact the team if required.
 
----
 
 👥 Team Credits
 
@@ -56,10 +51,7 @@ Ashwin Baduni
 
 Tanasi Singarapu
 
----
 
 ## 📜 License & Credits
 
 This project includes academic contributions. Please cite the original paper if using the motion magnification module from NeurIPS 2023.
-
----
