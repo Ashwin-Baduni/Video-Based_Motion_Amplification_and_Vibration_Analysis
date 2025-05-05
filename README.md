@@ -3,11 +3,13 @@
 This repository contains the codebase that won the **Smart India Hackathon 2023** under the problem statement **PS1415**.
 
 
+
 ## 📽 Sample Output
 
 ![Gif Sample](https://github.com/Ashwin-Baduni/Video-Based_Motion_Amplification_and_Vibration_Analysis/blob/main/SampleOutputs/VID-20240113-WA0000720p-ezgif.com-speed.gif?raw=true)
 
 [Link to full video](https://github.com/Ashwin-Baduni/Video-Based_Motion_Amplification_and_Vibration_Analysis/blob/main/SampleOutputs/VID-20240113-WA0000%20(720p).mp4)
+
 
 
 ## 🚀 Features
@@ -21,6 +23,7 @@ This repository contains the codebase that won the **Smart India Hackathon 2023*
 - ✅ Support for multiple amplification settings
 
 
+
 ## 🔗 External Dependency Used
 
 This project incorporates motion magnification methods from:
@@ -31,13 +34,15 @@ This project incorporates motion magnification methods from:
 - Integrated in `/flowmag`
 
 
+
 ## ⚠️ Model Files Notice
 
 All `.pth` files inside the `Models/` folder are **empty placeholders** due to GitHub's file size limits.  
 Please use your own trained models or contact the team if required.
 
 
-👥 Team Credits
+
+##👥 Team Credits
 
 Swarnim Sawane
 
@@ -50,6 +55,7 @@ Deepesh Bharadwaj
 Ashwin Baduni
 
 Tanasi Singarapu
+
 
 
 ## 📜 License & Credits
