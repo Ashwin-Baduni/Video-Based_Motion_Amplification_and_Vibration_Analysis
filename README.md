@@ -44,17 +44,11 @@ Please use your own trained models or contact the team if required.
 
 ## 👥 Team Credits
 
-Swarnim Sawane
+Ashwin Baduni,         Swarnim Sawane        
 
-Sayarnil Ganguly
+Sayarnil Ganguly,      Deepesh Bharadwaj
 
-Kanishk Singh
-
-Deepesh Bharadwaj
-
-Ashwin Baduni
-
-Tanasi Singarapu
+Kanishk Singh,         Tanasi Singarapu
 
 
 
