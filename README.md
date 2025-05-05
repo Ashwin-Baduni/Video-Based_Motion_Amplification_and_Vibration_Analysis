@@ -6,9 +6,9 @@ This repository contains the codebase that won the **Smart India Hackathon 2023*
 
 ## 📽 Sample Output
 
-[Gif Sample]([https://github.com/Ashwin-Baduni/Video-Based_Motion_Amplification_and_Vibration_Analysis/blob/main/SampleOutputs/output.gif](https://github.com/Ashwin-Baduni/Video-Based_Motion_Amplification_and_Vibration_Analysis/blob/main/SampleOutputs/VID-20240113-WA0000720p-ezgif.com-speed.gif))
+![Gif Sample](https://github.com/Ashwin-Baduni/Video-Based_Motion_Amplification_and_Vibration_Analysis/blob/main/SampleOutputs/VID-20240113-WA0000720p-ezgif.com-speed.gif?raw=true)
 
-[Full video]([https://github.com/Ashwin-Baduni/Video-Based_Motion_Amplification_and_Vibration_Analysis/blob/main/SampleOutputs/VID-20240113-WA0000%20(720p).mp4](https://github.com/Ashwin-Baduni/Video-Based_Motion_Amplification_and_Vibration_Analysis/blob/main/SampleOutputs/VID-20240113-WA0000%20(720p).mp4))
+[Full video](https://github.com/Ashwin-Baduni/Video-Based_Motion_Amplification_and_Vibration_Analysis/blob/main/SampleOutputs/VID-20240113-WA0000%20(720p).mp4)
 
 ---
 
