@@ -42,7 +42,7 @@ Please use your own trained models or contact the team if required.
 
 
 
-##👥 Team Credits
+## 👥 Team Credits
 
 Swarnim Sawane
 
