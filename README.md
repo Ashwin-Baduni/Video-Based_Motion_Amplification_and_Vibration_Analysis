@@ -45,10 +45,15 @@ Please use your own trained models or contact the team if required.
 ## 👥 Team Credits
 
 Ashwin Baduni
-Swarnim Sawane        
+
+Swarnim Sawane  
+
 Sayarnil Ganguly
+
 Deepesh Bharadwaj
+
 Kanishk Singh
+
 Tanasi Singarapu
 
 
